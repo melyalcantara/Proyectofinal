@@ -1,0 +1,85 @@
+body{
+  background-color: #81ecec;
+  padding: 0px;
+  margin: 0px;
+ 
+}
+h1{
+  background-color: #ff4d4d;
+  margin: 100px auto;
+  text-align: center;
+  color: white;
+}
+
+#FormContainer{
+  background-color: white;
+  position: fixed;
+  margin: 2rem;
+  padding: 2rem;
+  border: 2px solid #ccc;
+  /* IMPORTANTE */
+  text-align: center;
+}
+
+ 
+#email{
+  height: 40px;
+  display: block;
+  margin: 10 auto;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid black;
+}
+  
+#password {
+  
+  height: 40px;
+  display: block;
+  margin: 10 auto;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid black;
+}
+
+#signIn{
+  background-color: #32ff7e;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 15px 32px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+}
+
+#signOut{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 15px 32px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+
+}
+
+#signUp{
+  background-color: sandybrown;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 15px 32px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+
+}
+
+
